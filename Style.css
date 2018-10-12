@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin: auto;
+	padding: 0;
+
+}
+	
+.main
+{
+	width:850px;
+	height:900px;
+border:1px solid black;
+}
+.header{
+		width:845px;
+	height:105px;
+//border:1px solid black;
+	margin-top: 16px;
+}
+.menu a{
+	color:gray;
+	text-decoration:none;
+
+}
+.menu a:hover{
+	color:green;
+	text-decoration:underline;
+	
+
+}
+
+
+.footer{
+	background: #1D1C1C;
+	width: 847px;
+	height: 200px;
+		border: 2px solid green;
+	border-radius: 25px;
+		//margin-top: 10px;
+}
